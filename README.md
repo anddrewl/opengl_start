@@ -1,1 +1,1 @@
-This is me just getting used to OpenGL.
+This is me just getting used to OpenGL
