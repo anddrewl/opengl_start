@@ -1,1 +1,1 @@
-This is me just getting used to OpenGL, projects coming soon!
+This is me just getting used to OpenGL.
